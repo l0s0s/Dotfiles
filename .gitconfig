@@ -1,8 +1,0 @@
-[url "git@github.com:"]
-	insteadOf = https://github.com/
-[includeIf "gitdir:~/dev/getswif/"]
-	path = ~/dev/getswif/.gitconfig
-
-[user]
-	email = cucumb3rpasha@gmail.com
-	name = Pavel Ohursov
