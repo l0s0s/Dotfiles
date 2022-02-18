@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.iconTheme": "helium-icon-theme",
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.cursorSmoothCaretAnimation": true,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": -1,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.glyphMargin": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderLineHighlight": "none"
+}
