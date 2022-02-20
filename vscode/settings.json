@@ -10,11 +10,12 @@
     "workbench.startupEditor": "none",
     "window.zoomLevel": -1,
     "go.toolsManagement.autoUpdate": true,
-    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.horizontal": "auto",
     "editor.scrollbar.vertical": "hidden",
     "editor.minimap.enabled": true,
     "editor.overviewRulerBorder": false,
     "editor.glyphMargin": false,
     "editor.renderIndentGuides": false,
-    "editor.renderLineHighlight": "none"
+    "editor.renderLineHighlight": "none",
+    "vim.useSystemClipboard": true
 }
